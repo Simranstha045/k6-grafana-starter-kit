@@ -14,7 +14,7 @@ git clone https://github.com/Simranstha045/k6-grafana-starter-kit.git
 ```
 Step 2.Navigate to the repository directory
 ```
-cd k6-load-testing-example/
+cd k6-grafana-starter-kit/
 ```
 
 Step 3. Start Grafana and InfluxDB
